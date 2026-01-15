@@ -1,0 +1,13 @@
+1、打开学习通PPT，右键任意PPT页，点击复制图片链接
+2、数清楚一共有多少页
+3、创建一个Excel文档，复制第一个链接，下拉智能加数至与PPT页数一样的行数
+4、复制整个Excel
+5、打开脚本“链接批量下载”
+6、将所有图片下载下来，自己打包成zip丢进脚本“zip转pdf”里
+
+
+注：
+1、脚本“批量下载”需要win+R：pip install requests pyperclip Pillow
+2、脚本“zip转pdf”需要win+R：pip install Pillow reportlab
+
+3、下载图片也可以用迅雷
